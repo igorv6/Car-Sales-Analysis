@@ -31,8 +31,11 @@ Key Analyses to conduct:
 
 #### Data Loading and Preparation
 I began by loading the dataset using the script editor. After importing the data, I formatted the date column and extracted additional time-related fields such as Year, Month, Month-Year Name, Quarter, and Weekday to enhance the depth of my analysis.
-
 Additionally, I categorized car prices into four levels: Lower, Lower-Mid, Mid, and High to facilitate segmentation.
+
+![image](https://github.com/user-attachments/assets/8ee284d4-4321-45e9-b135-a08c7ec55ba8)
+
+
 
 #### Dashboard Overview
 I created three distinct dashboards:
@@ -43,7 +46,9 @@ I created three distinct dashboards:
 
 #### Key Insights from the Sales Trend Dashboard
 
-![image](https://github.com/user-attachments/assets/815cd8fc-67e9-405c-a767-cff0bf6ea059)
+![image](https://github.com/user-attachments/assets/ddd2fb67-12cd-4cff-a0e9-84c421d623fb)
+
+
 
 - Sales improved in 2023 compared to 2022, with November and December being the peak months for both years. In contrast, January experienced a significant drop in sales.
 - The car market is highly competitive, with no single brand dominating. However, Chevrolet leads in both total sales and units sold, followed by Ford and Dodge (all American brands).
@@ -51,7 +56,9 @@ I created three distinct dashboards:
 
 #### Key Insights from the Geographical Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/2bad9c67-ea79-4412-964b-8cc55312ad23)
+![image](https://github.com/user-attachments/assets/448ad25c-47dc-48dc-b249-3b54ca61ea88)
+
+
 
 - Austin recorded the highest number of transactions, while Greenville and Middletown had the lowest sales.
 - The top-performing dealer is in Janesville, but overall, sales among the top 10 dealers are highly competitive.
@@ -59,7 +66,8 @@ I created three distinct dashboards:
 
 #### Key Insights from the Customer Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/053a6a9d-d174-401a-a77c-7aadfad998c1)
+![image](https://github.com/user-attachments/assets/2afd55ac-08b5-4ddb-8a03-084a106a18be)
+
 
 - The dataset contains more male than female buyers.
 - Both genders primarily prefer Pale White cars with automatic transmissions and hatchback body styles.
