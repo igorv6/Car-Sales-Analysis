@@ -46,7 +46,8 @@ I created three distinct dashboards:
 
 #### Key Insights from the Sales Trend Dashboard
 
-![image](https://github.com/user-attachments/assets/ddd2fb67-12cd-4cff-a0e9-84c421d623fb)
+![image](https://github.com/user-attachments/assets/4b866c2c-3f42-4c8f-a6f5-438234a054eb)
+
 
 
 
@@ -56,7 +57,8 @@ I created three distinct dashboards:
 
 #### Key Insights from the Geographical Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/448ad25c-47dc-48dc-b249-3b54ca61ea88)
+![image](https://github.com/user-attachments/assets/ff8b0e30-a615-4c18-bcd7-84efb9fd98a3)
+
 
 
 
@@ -66,7 +68,8 @@ I created three distinct dashboards:
 
 #### Key Insights from the Customer Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/2afd55ac-08b5-4ddb-8a03-084a106a18be)
+![image](https://github.com/user-attachments/assets/d6f578b3-ba15-4839-8a4f-58f7e008ab0f)
+
 
 
 - The dataset contains more male than female buyers.
